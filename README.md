@@ -1,4 +1,4 @@
-#PBF - UJIAN AKHIR SEMESTER(UAS) 
+# PBF - UJIAN AKHIR SEMESTER(UAS) 
 
 | Name  | Devia Herena Kippuw |
 |-------|---------------------|
@@ -7,7 +7,7 @@
 
 Repository ini dibuat untuk Dokumentasi Ujian Akhir Semester Mata Kuliah PBF.
 
-## 🗒️ Persiapan Pembuatan BackEnd
+## 🗒️ Persiapan Awal
 - PHP >= 8.1
 - Composer
 - MySQL/MariaDB
