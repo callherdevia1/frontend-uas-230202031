@@ -55,5 +55,25 @@ Repository ini dibuat untuk Dokumentasi Ujian Akhir Semester Mata Kuliah PBF.
 2. Ketikkan
    ```bash
    composer create-project laravel/laravel frontend-uas-230202031 "10.0"
-## 📧 
-
+## 📧 Cara Melakukan Gitbash
+1. Buka Visual Studio Code
+2. Buka Folder Frontend
+3. Ketik Pada Keyboard
+   ```bash
+   CTR; + SHIFT + P
+4. Ketikkan Select Default Profile
+5. Pilih Git Bash
+6. Tunggu Sampai Terminal Git Bash Muncul
+   
+## Cara Melakukan Push Laravel Ke Git Hub
+1. Buat Repositary Dahulu Pada Github tanpa menklik Add Readme. Jadi masih kosongan.
+2. Balik lagi ke Visual Studio Code
+3. Lakukan Inisialisasi Berikut Pada Terminal Git Bash
+4. Lakukan Dengan Urut:
+   ```bash
+   git init
+   git add .
+   git commit -m "Initial commit"
+   git remote add origin https://github.com/callherdevia1/frontend-uas-230202031.git
+   git branch -M main
+   git push -u origin main
