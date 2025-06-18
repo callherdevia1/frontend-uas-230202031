@@ -27,6 +27,7 @@ Repository ini dibuat untuk Dokumentasi Ujian Akhir Semester Mata Kuliah PBF.
     database.default.database = db_rumahsakit_230202031
     database.default.username = root
     database.default.password =
+5. Dan Masukan Perintah Lainnya Sesuai Dengan Yang Ada DiRepositary Pak Abdau
 ## 💻Databases
 1. Masuk ke MYSQL
 2. Buat Database Dengan Memasukan Query
