@@ -60,7 +60,7 @@ Repository ini dibuat untuk Dokumentasi Ujian Akhir Semester Mata Kuliah PBF.
 2. Buka Folder Frontend
 3. Ketik Pada Keyboard
    ```bash
-   CTR; + SHIFT + P
+   CTRL + SHIFT + P
 4. Ketikkan Select Default Profile
 5. Pilih Git Bash
 6. Tunggu Sampai Terminal Git Bash Muncul
