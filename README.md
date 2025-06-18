@@ -21,7 +21,7 @@ Repository ini dibuat untuk Dokumentasi Ujian Akhir Semester Mata Kuliah PBF.
 3. Buat File Env
    ```bash
    copy env .env
-4.Edit Konfigurasi Di .env
+4. Edit Konfigurasi Di .env
     ```bash
     database.default.hostname = localhost
     database.default.database = db_rumahsakit_230202031
