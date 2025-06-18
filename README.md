@@ -18,6 +18,15 @@ Repository ini dibuat untuk Dokumentasi Ujian Akhir Semester Mata Kuliah PBF.
 2. Buka Command Prompt
    ```bash
    composer create-project codeigniter4/appstarter backend_rumahsakit
+3. Buat File Env
+   ```bash
+   copy env .env
+4.Edit Konfigurasi Di .env
+    ```bash
+    database.default.hostname = localhost
+    database.default.database = db_rumahsakit_230202031
+    database.default.username = root
+    database.default.password =
 ## 💻Databases
 1. Masuk ke MYSQL
 2. Buat Database Dengan Memasukan Query
